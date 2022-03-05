@@ -41,3 +41,14 @@ out
 test-output
 atlassian-ide-plugin.xml
 .gradletasknamecache
+.editorconfig
+.github/ISSUE_TEMPLATE.md
+.github/workflows/gradle-wrapper-validation.yml
+.mailmap
+buildSrc/src/main/java/org/springframework/build/api/ApiDiffPlugin.java
+buildSrc/src/main/java/org/springframework/build/compile/CompilerConventionsPlugin.java
+buildSrc/src/main/java/org/springframework/build/optional/OptionalDependenciesPlugin.java
+CODE_OF_CONDUCT.adoc
+src/docs/*
+src/eclipse/*
+src/idea/spring-framework.xml
